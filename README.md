@@ -1,1 +1,5 @@
-# Reactportfolio
+# Reactportfolio #
+WORKED IN A GROUP
+USED CLASS MATERIALS AND GOOGLE
+
+## CODED BY AHMAD BUSTAMI ##
