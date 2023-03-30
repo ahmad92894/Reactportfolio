@@ -11,7 +11,7 @@ import Music5 from "../img/music5.png";
 
 const Project = () => {
   return (
-    <div className="Intro" id="Intro">
+    <div className="project" id="project">
         <div className="i-name">
         <body>
           <a href="https://github.com/ahmad92894/Recipe-Database"><img src={Food1} alt="Food1"/></a>
@@ -19,6 +19,10 @@ const Project = () => {
           <a href="https://github.com/ahmad92894/Recipe-Database"><img src={Food3} alt="Food3"/></a>
           <a href="https://github.com/ahmad92894/Recipe-Database"><img src={Food4} alt="Food4"/></a>
         </body>
+        <p>
+          THE PROJECT ABOVE IS A RECIPE DATABASE THAT ALLOWS USERS TO SEARCH FOR RECIPES BASED ON INGREDIENTS AND CUISINE. THE PROJECT USES THE EDAMAM API TO FETCH THE DATA AND STORES IT IN A MYSQL DATABASE. THE PROJECT IS DEPLOYED ON HEROKU AND CAN BE FOUND IF YOU CLICK ANY OF THE IMAGES.
+          THE PROJECT BELOW IS A MUSIC DASHBOARD THAT ALLOWS USERS TO SEARCH FOR MUSIC BASED ON ARTIST, SONG, ALBUM, AND GENRE. THE PROJECT USES THE SPOTIFY API TO FETCH THE DATA AND STORES IT IN A MYSQL DATABASE. THE PROJECT IS DEPLOYED ON HEROKU AND CAN BE FOUND IF YOU CLICK ANY OF THE IMAGES.
+        </p>
         <body>
           <a href="https://github.com/ahmad92894/music-dashboard"><img src={Music1} alt="Music1"/></a>
           <a href="https://github.com/ahmad92894/music-dashboard"><img src={Music2} alt="Music2"/></a>
