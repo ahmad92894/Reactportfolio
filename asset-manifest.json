@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Reactportfolio/static/css/main.b73b76f6.css",
+    "main.js": "/Reactportfolio/static/js/main.63a0ad4d.js",
+    "static/js/787.3022c168.chunk.js": "/Reactportfolio/static/js/787.3022c168.chunk.js",
+    "static/media/music2.png": "/Reactportfolio/static/media/music2.7f9c20d0372b84507a3a.png",
+    "static/media/music3.png": "/Reactportfolio/static/media/music3.6c99f94e5f3ce21b0892.png",
+    "static/media/food1.png": "/Reactportfolio/static/media/food1.0302f1ad0b3b395fbea5.png",
+    "static/media/food4.png": "/Reactportfolio/static/media/food4.6476eb79efc6766dd30e.png",
+    "static/media/me.png": "/Reactportfolio/static/media/me.f05f0d630ab978636707.png",
+    "static/media/music4.png": "/Reactportfolio/static/media/music4.7495ff4c710ee12beab8.png",
+    "static/media/music1.png": "/Reactportfolio/static/media/music1.e28e08b0f9faf0a21f87.png",
+    "static/media/food3.png": "/Reactportfolio/static/media/food3.d29e01339756f93ac7e2.png",
+    "static/media/music5.png": "/Reactportfolio/static/media/music5.222d666c8b71a3607886.png",
+    "static/media/resume.png": "/Reactportfolio/static/media/resume.4fef7c5ec955ce73a2bc.png",
+    "static/media/food2.png": "/Reactportfolio/static/media/food2.4f939dc0afeb9dc1ee49.png",
+    "index.html": "/Reactportfolio/index.html",
+    "main.b73b76f6.css.map": "/Reactportfolio/static/css/main.b73b76f6.css.map",
+    "main.63a0ad4d.js.map": "/Reactportfolio/static/js/main.63a0ad4d.js.map",
+    "787.3022c168.chunk.js.map": "/Reactportfolio/static/js/787.3022c168.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b73b76f6.css",
+    "static/js/main.63a0ad4d.js"
+  ]
+}
